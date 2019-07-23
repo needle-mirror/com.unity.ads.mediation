@@ -1,0 +1,20 @@
+{
+  "name": "com.unity.ads.mediation",
+  "displayName": "Ads IAP Mediation Adaptor",
+  "version": "1.0.2",
+  "unity": "2018.3",
+  "description": "This package provides a purchase adapter for Unity developers that use mediated ads with Unity IAP, who wish to use IAP Promos or Personalized Placements. The adaptor allows the Unity Ads SDK to receive purchase and conversion events while in mediation.",
+  "keywords": [
+    "ads",
+    "mediation",
+    "iap"
+  ],
+  "dependencies": {
+    "com.unity.purchasing": "2.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.cds.internal.unity3d.com:unity/Unity-Ads-Mediation-Purchasing-Adaptor.git",
+    "revision": "dcd8a9d5cbb69884b8316fa89387526f2cc64314"
+  }
+}
